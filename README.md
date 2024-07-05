@@ -56,7 +56,7 @@ Fungsi ini mencapai kompleksitas terendah yang mungkin untuk masalah ini, karena
 
 - Analisis Kompleksitas Lebih Lanjut:
 
- - Kompleksitas Waktu O(n):
+ ##### Kompleksitas Waktu O(n):
 
   - Setiap operasi dalam loop (push, pop, pengecekan) adalah O(1).
   - Dilakukan operasi ini untuk setiap karakter dalam string, jadi total adalah n * O(1) = O(n).
