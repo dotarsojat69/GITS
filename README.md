@@ -1,17 +1,17 @@
 # GITS
 a simple logic to solve problem
 
-# Logic-2
+## Logic-2
 
-## Analisis Kompleksitas
+### Analisis Kompleksitas
 
-### Kompleksitas Waktu: O(n)
+#### Kompleksitas Waktu: O(n)
 
 - Fungsi melakukan satu kali iterasi melalui string input.
 - Setiap operasi di dalam loop (push, pop, perbandingan) memiliki kompleksitas waktu O(1).
 - Total kompleksitas waktu adalah O(n), di mana n adalah panjang string input.
 
-### Kompleksitas Ruang: O(n)
+#### Kompleksitas Ruang: O(n)
 
 - Dalam kasus terburuk, di mana semua karakter adalah kurung buka, stack akan menyimpan semua karakter.
 - Oleh karena itu, kompleksitas ruang maksimum adalah O(n).
